@@ -3,5 +3,5 @@ packages:
   - ansible
   - build-essential
 
-# remove_packages:
+remove_packages:
 #   - gnome-shell-extension-ubuntu-dock
