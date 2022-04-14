@@ -1,9 +1,0 @@
-- name: Set up local workstation
-  hosts: local
-  roles:
-    - role: apt
-      tags:
-        - apt
-    - role: zsh
-      tags:
-        - zsh
