@@ -1,7 +1,0 @@
-package_upgrade: yes
-packages:
-  - ansible
-  - build-essential
-
-remove_packages:
-#   - gnome-shell-extension-ubuntu-dock
